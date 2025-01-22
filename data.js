@@ -23,5 +23,11 @@ const data = [
         "description": "Created a responsive portfolio website featuring a theme toggle for different modes, showcasing my skills, projects, and professional journey with an engaging, modern design.",
         "link":"https://portfolio-aryan-site.netlify.app"
     }
+    ,{
+        "title":"Restaurant Website 🥑",
+        "description": "Developed a modern food website with advanced CSS for stunning visuals and smooth animations, delivering an immersive and user-friendly experience to showcase recipes and culinary content.",
+        
+        "link":"https://omnifood-web-online.netlify.app/"
+    }
 ]
 export default data;
