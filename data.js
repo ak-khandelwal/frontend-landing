@@ -18,6 +18,10 @@ const data = [
         "title": "Color Generator 🌈",
         "description": "Developed a dynamic color generator using JavaScript, allowing users to generate random colors, view their HEX, RGB, and HSL values, and copy them with a single click. Features a clean and intuitive interface for seamless usability.",
         "link": "https://graceful-vacherin-c96e06.netlify.app/"
-    },
+    },{
+        "title":"Universal Portfolio 👳‍♂️",
+        "description": "Created a responsive portfolio website featuring a theme toggle for different modes, showcasing my skills, projects, and professional journey with an engaging, modern design.",
+        "link":"https://portfolio-aryan-site.netlify.app"
+    }
 ]
 export default data;
