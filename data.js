@@ -36,5 +36,11 @@ const data = [
       "A modern, responsive web project built with Tailwind CSS v4, Flowbite, and Vite, featuring an elegant dark/light theme toggle. Designed with a focus on clean UI, smooth performance, and seamless user experience.",
     link: "https://transcendent-beijinho-de041a.netlify.app/",
   },
+  {
+    title: "Tea Station ☕",
+    description:
+      "Tea Station is a clean and responsive tea website built with vanilla JavaScript, offering a modern UI, interactive product listings, and a smooth browsing experience for tea lovers.",
+    link: "https://teastation-aryan.netlify.app/",
+  },
 ];
 export default data;
