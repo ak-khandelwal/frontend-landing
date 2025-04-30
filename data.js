@@ -34,13 +34,7 @@ const data = [
     title: "LegitPro Legal 🎓",
     description:
       "A modern, responsive web project built with Tailwind CSS v4, Flowbite, and Vite, featuring an elegant dark/light theme toggle. Designed with a focus on clean UI, smooth performance, and seamless user experience.",
-    link: "",
-  },
-  {
-    title: "Tea Store ☕",
-    description:
-      "A modern, responsive web project built with Tailwind CSS v4, Flowbite, and Vite, featuring an elegant dark/light theme toggle. Designed with a focus on clean UI, smooth performance, and seamless user experience.",
-    link: "",
+    link: "https://transcendent-beijinho-de041a.netlify.app/",
   },
 ];
 export default data;
