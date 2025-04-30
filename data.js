@@ -42,5 +42,10 @@ const data = [
       "Tea Station is a clean and responsive tea website built with vanilla JavaScript, offering a modern UI, interactive product listings, and a smooth browsing experience for tea lovers.",
     link: "https://teastation-aryan.netlify.app/",
   },
+  {
+    title: "Archived Portfolio ❤ ",
+    description: "My Personal developer portfolio built with love.:)",
+    link: "https://aryan-khandelwal.netlify.app/",
+  },
 ];
 export default data;
